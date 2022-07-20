@@ -7,4 +7,5 @@
 - 구글에서 지원하는 Frontend 웹 기술 학습 사이트 : [web.dev](https://web.dev/)
 
 ## 채용, 이력서
+- 주니어 개발자 채용 정보: (junior-recruit-scheduler)[https://github.com/jojoldu/junior-recruit-scheduler]
 - 한국어로된 멋진 이력서 목록, 그리고 짜잘한 팁 : [awesome-korean-resume](https://github.com/9j/awesome-korean-resume)
