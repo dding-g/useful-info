@@ -5,3 +5,6 @@
 ## 개발
 - 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 정리한 사이트 : [Dev-Event](https://github.com/brave-people/Dev-Event)
 - 구글에서 지원하는 Frontend 웹 기술 학습 사이트 : [web.dev](https://web.dev/)
+
+## 채용, 이력서
+- 한국어로된 멋진 이력서 목록, 그리고 짜잘한 팁 : [awesome-korean-resume](https://github.com/9j/awesome-korean-resume)
