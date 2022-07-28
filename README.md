@@ -10,7 +10,7 @@
 - TS 강좌 : [Zero Choi 타입스크립트 올인원 TS](https://www.youtube.com/watch?app=desktop&v=blLXcRupAAA)
 - FE 개발자를 위한 챌린지 : [the-dom-challenge](https://github.com/devkodeio/the-dom-challenge)
 
-### 프론트앤드
+### 프론트엔드
 
 - 애플 폰트와 가장 비슷한 웹 폰트 : [Pretendard](https://github.com/orioncactus/pretendard)
 - 영어로된 프론트엔드 아티클을 번역하고 공유하는 곳 : [kofearticle](https://kofearticle.substack.com/about)
