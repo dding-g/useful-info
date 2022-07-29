@@ -33,3 +33,7 @@
 ## 블로그
 
 - 국내 개발/기술 블로그 모음 : [awesome-devblog](https://github.com/awesome-devblog/awesome-devblog)
+
+## 글쓰기
+
+- 엔지니어를 위한 글쓰기 번역본 : [writing](https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56#file-writing-md)
