@@ -31,9 +31,10 @@
 
 - [UI, UX 책 추천](https://designcompass.org/2022/07/17/ux-design-bible/)
 
-## 블로그
+## 블로그, 위키
 
 - 국내 개발/기술 블로그 모음 : [awesome-devblog](https://github.com/awesome-devblog/awesome-devblog)
+- 집단 지성의 힘. k-wiki : [k-wiki](https://kwiki.devserum.com/)
 
 ## 글쓰기
 
