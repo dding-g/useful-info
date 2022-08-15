@@ -25,7 +25,9 @@
 
 - 주니어 개발자 채용 정보: [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
 - 한국어로된 멋진 이력서 목록, 그리고 짜잘한 팁 : [awesome-korean-resume](https://github.com/9j/awesome-korean-resume)
-- 면접 예상 질문 정리 : [brave-tech-interview](https://github.com/brave-people/brave-tech-interview)
+- 면접 예상 질문 정리
+  - [brave-tech-interview](https://github.com/brave-people/brave-tech-interview)
+  - [frontend-interview-handbook](https://www.frontendinterviewhandbook.com/kr/javascript-questions)
 
 ## 디자인
 
