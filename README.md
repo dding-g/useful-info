@@ -9,6 +9,7 @@
 - 네이버 FE 개발자들이 선정한 기술 소식 큐레이션 뉴스레터: [fe-news](https://github.com/naver/fe-news)
 - TS 강좌 : [Zero Choi 타입스크립트 올인원 TS](https://www.youtube.com/watch?app=desktop&v=blLXcRupAAA)
 - FE 개발자를 위한 챌린지 : [the-dom-challenge](https://github.com/devkodeio/the-dom-challenge)
+- 주석이 있는 유익한 오픈소스 모음 : [Code Catalog](https://codecatalog.org/)
 
 ### 프론트엔드
 
