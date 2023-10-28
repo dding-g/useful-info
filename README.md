@@ -33,3 +33,7 @@
 ## 블로그
 
 - 국내 개발/기술 블로그 모음 : [awesome-devblog](https://github.com/awesome-devblog/awesome-devblog)
+
+## HR
+
+- [dev-korea](https://dev-korea.com/)
