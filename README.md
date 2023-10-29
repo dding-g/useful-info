@@ -47,4 +47,9 @@
 
 ## HR
 
-- [dev-korea](https://dev-korea.com/)
+- 해외 개발자들의 한국 취업을 위한 사이트: [dev-korea](https://dev-korea.com/)
+
+## 커뮤니티
+
+- [글또](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516)
+- [AWSKRUG](https://awskrug.github.io/)
