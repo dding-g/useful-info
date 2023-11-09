@@ -44,6 +44,7 @@
 ## 글쓰기
 
 - 엔지니어를 위한 글쓰기 번역본 : [writing](https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56#file-writing-md)
+- 블로그, PPT 만들떄 유용한 컨텐츠가 있는 곳: (contentful)[https://www.contentful.com/]
 
 ## HR
 
