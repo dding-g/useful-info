@@ -2,6 +2,10 @@
 
 > 유용한 정보들을 추가하려면 PR 부탁드립니다.
 
+## 오픈소스
+- tailwind 기반 컴포넌트 라이브러리: [shadcn](https://ui.shadcn.com/)
+- shadcn 개발자가 만든 toast 컴포넌트 라이브러리: [Sonner](https://sonner.emilkowal.ski/) 
+
 ## 개발
 
 - 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 정리한 사이트 : [Dev-Event](https://github.com/brave-people/Dev-Event)
