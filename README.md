@@ -4,7 +4,12 @@
 
 ## 오픈소스
 - tailwind 기반 컴포넌트 라이브러리: [shadcn](https://ui.shadcn.com/)
-- shadcn 개발자가 만든 toast 컴포넌트 라이브러리: [Sonner](https://sonner.emilkowal.ski/) 
+- shadcn 개발자가 만든 toast 컴포넌트 라이브러리: [Sonner](https://sonner.emilkowal.ski/)
+- 손으로 그린 것 같은 느낌을 주는 협업 가능한 화이트보드: [Excalidraw](https://github.com/excalidraw/excalidraw)
+- 깔끔한 느낌의 협업 가능한 화이트보드: [tldraw](https://github.com/tldraw/tldraw)
+
+## Canvas
+- 
 
 ## 개발
 
