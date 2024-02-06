@@ -7,6 +7,7 @@
 - shadcn 개발자가 만든 toast 컴포넌트 라이브러리: [Sonner](https://sonner.emilkowal.ski/)
 - 손으로 그린 것 같은 느낌을 주는 협업 가능한 화이트보드: [Excalidraw](https://github.com/excalidraw/excalidraw)
 - 깔끔한 느낌의 협업 가능한 화이트보드: [tldraw](https://github.com/tldraw/tldraw)
+- javascript, typescript 프로젝트에서 사용하지 않는 코드(unused-file)를 걸러주는 오픈소스: [Knip](https://github.com/webpro/knip)
 
 ## Canvas
 - 
