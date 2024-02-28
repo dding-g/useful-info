@@ -10,9 +10,6 @@
 - javascript, typescript 프로젝트에서 사용하지 않는 코드(unused-file)를 걸러주는 오픈소스: [Knip](https://github.com/webpro/knip)
 - shadcn같은 animation 컴포넌트 리이브러리: [aceternity](https://ui.aceternity.com/)
 
-## Canvas
-- 
-
 ## 개발
 
 - 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 정리한 사이트 : [Dev-Event](https://github.com/brave-people/Dev-Event)
@@ -22,14 +19,14 @@
 - FE 개발자를 위한 챌린지 : [the-dom-challenge](https://github.com/devkodeio/the-dom-challenge)
 - 주석이 있는 유익한 오픈소스 모음 : [Code Catalog](https://codecatalog.org/)
 
-### 프론트엔드
+## 프론트엔드
 
 - 애플 폰트와 가장 비슷한 웹 폰트 : [Pretendard](https://github.com/orioncactus/pretendard)
 - 영어로된 프론트엔드 아티클을 번역하고 공유하는 곳 : [kofearticle](https://kofearticle.substack.com/about)
 - 한줄로 추가하는 벡터 이모지 : [Emoji Cloud](https://alohe.github.io/emojicloud/)
 - 자주사용하는 미디어쿼리 템플릿 : [media query style](https://mediaquery.style/)
 
-### CS
+## CS
 
 - [IT-Note](https://github.com/InSeong-So/IT-Note)
 - [tech-refrigerator](https://github.com/GimunLee/tech-refrigerator)
