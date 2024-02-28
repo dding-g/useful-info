@@ -61,6 +61,10 @@
 
 - 해외 개발자들의 한국 취업을 위한 사이트: [dev-korea](https://dev-korea.com/)
 
+## Infra
+
+- [스타트업에서 4년간 인프라를 운영하며 좋았던/후회하는 (거의) 모든 인프라 결정들](https://news.hada.io/topic?id=13564&utm_source=teams&utm_medium=bot&utm_campaign=1603)
+
 ## 커뮤니티
 
 - [글또](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516)
