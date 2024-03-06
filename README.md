@@ -25,6 +25,7 @@
 - 영어로된 프론트엔드 아티클을 번역하고 공유하는 곳 : [kofearticle](https://kofearticle.substack.com/about)
 - 한줄로 추가하는 벡터 이모지 : [Emoji Cloud](https://alohe.github.io/emojicloud/)
 - 자주사용하는 미디어쿼리 템플릿 : [media query style](https://mediaquery.style/)
+- 종이 출력(PDF)를 위한 CSS : [voussoir.net](https://voussoir.net/writing/css_for_printing)
 
 ## CS
 
