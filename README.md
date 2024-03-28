@@ -43,6 +43,7 @@
 ## 디자인
 
 - [UI, UX 책 추천](https://designcompass.org/2022/07/17/ux-design-bible/)
+- [3d 디자인 툴: Spline](https://spline.design/)
 
 ## 블로그, 위키, IT서적
 
