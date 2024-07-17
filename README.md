@@ -9,6 +9,7 @@
 - 깔끔한 느낌의 협업 가능한 화이트보드: [tldraw](https://github.com/tldraw/tldraw)
 - javascript, typescript 프로젝트에서 사용하지 않는 코드(unused-file)를 걸러주는 오픈소스: [Knip](https://github.com/webpro/knip)
 - shadcn같은 animation 컴포넌트 리이브러리: [aceternity](https://ui.aceternity.com/)
+- shadcn기반의 react 컴포넌트 라이브러리 [jollyui](https://www.jollyui.dev/)
 
 ## 개발
 
