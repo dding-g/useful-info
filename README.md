@@ -2,7 +2,7 @@
 
 > 유용한 정보들을 추가하려면 PR 부탁드립니다.
 
-## 오픈소스
+## 오픈소스/서비스
 - tailwind 기반 컴포넌트 라이브러리: [shadcn](https://ui.shadcn.com/)
 - shadcn 개발자가 만든 toast 컴포넌트 라이브러리: [Sonner](https://sonner.emilkowal.ski/)
 - 손으로 그린 것 같은 느낌을 주는 협업 가능한 화이트보드: [Excalidraw](https://github.com/excalidraw/excalidraw)
@@ -11,6 +11,7 @@
 - shadcn같은 animation 컴포넌트 리이브러리: [aceternity](https://ui.aceternity.com/)
 - shadcn기반의 react 컴포넌트 라이브러리: [jollyui](https://www.jollyui.dev/)
 - 사이드 프로젝트할때 보다 쉽게 사용할 수 있는 Firebase 대용 DB 오픈소스: [supabase](https://github.com/supabase/supabase)
+- PDF 예쁘게 공유하고 트래킹 가능한 서비스: [FeatPaper](https://www.featpaper.com/ko)
 
 ## 개발
 
