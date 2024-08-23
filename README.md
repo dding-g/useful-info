@@ -72,3 +72,11 @@
 
 - [글또](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516)
 - [AWSKRUG](https://awskrug.github.io/)
+
+## 개발 유튜버
+
+- [Theo - t3․gg](https://www.youtube.com/@t3dotgg)
+- [ByteGrad](https://www.youtube.com/@ByteGrad)
+- [Josh tried coding](https://www.youtube.com/@joshtriedcoding)
+- [Expo](https://www.youtube.com/@ExpoDevelopers)
+- [Simon Grimm](https://www.youtube.com/@galaxies_dev)
