@@ -22,6 +22,7 @@
 - FE 개발자를 위한 챌린지 : [the-dom-challenge](https://github.com/devkodeio/the-dom-challenge)
 - 주석이 있는 유익한 오픈소스 모음 : [Code Catalog](https://codecatalog.org/)
 - AI 웹사이트 & 도구 디렉토리 : [Toolify](https://www.toolify.ai/)
+- draw io에서 AWS 아이콘 사용하기 : [draw.io aws-diagrams](https://www.drawio.com/blog/aws-diagrams)
 
 ## 프론트엔드
 
