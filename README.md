@@ -74,6 +74,7 @@
 
 - [글또](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516)
 - [AWSKRUG](https://awskrug.github.io/)
+- [SIPE](https://sipe.team/)
 
 ## 개발 유튜버
 
