@@ -15,6 +15,8 @@
 - PDF 예쁘게 공유하고 트래킹 가능한 서비스: [FeatPaper](https://www.featpaper.com/ko)
 - 마크다운으로 Slide를 만들 수 있는 오픈소스: [sli.dev](https://sli.dev/)
 - 개발/테스트에 필요할 수 있는 public api 모음집: [public-api](https://github.com/public-apis/public-apis)
+- CSS, Tailwind로 만든 예쁜 UI 모음집 :  [uiverse.io](https://uiverse.io/)
+
 
 ## 개발
 
