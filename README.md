@@ -39,6 +39,7 @@
 - 인프라 회고 문서 : [스타트업에서 4년간 인프라를 운영하며 좋았던/후회하는 (거의) 모든 인프라 결정들](https://news.hada.io/topic?id=13564&utm_source=teams&utm_medium=bot&utm_campaign=1603)
 - Javascript의 어이없는 억까 사용 예시 : [wtfjs](https://github.com/denysdovhan/wtfjs)
 - toss의 Frontend Fundamentals : [Frontend Fundamentals](https://frontend-fundamentals.com/)
+- 프롬프트 엔지니어링 가이드: [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ## HR
 
