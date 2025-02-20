@@ -78,3 +78,4 @@
 - [Josh tried coding](https://www.youtube.com/@joshtriedcoding)
 - [Expo](https://www.youtube.com/@ExpoDevelopers)
 - [Simon Grimm](https://www.youtube.com/@galaxies_dev)
+- [GitBulter](https://www.youtube.com/@gitbutlerapp)
