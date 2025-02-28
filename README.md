@@ -17,7 +17,7 @@
 - 개발/테스트에 필요할 수 있는 public api 모음집: [public-api](https://github.com/public-apis/public-apis)
 - CSS, Tailwind로 만든 예쁜 UI 모음집 :  [uiverse.io](https://uiverse.io/)
 - UI library for Design Engineers : [Magic ui](https://magicui.design/)
-
+- react로 구성된 웹 어플리케이션 성능 측정을 도와주는 서비스 : [React Scan](https://react-scan.com/)
 
 ## 개발
 
