@@ -41,6 +41,7 @@
 - Javascript의 어이없는 억까 사용 예시 : [wtfjs](https://github.com/denysdovhan/wtfjs)
 - toss의 Frontend Fundamentals : [Frontend Fundamentals](https://frontend-fundamentals.com/)
 - 프롬프트 엔지니어링 가이드: [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- 해외 Summit 영상들 업로드 사이드 : [GitNation](https://gitnation.com/)
 
 ## HR
 
